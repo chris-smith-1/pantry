@@ -1,0 +1,21 @@
+.sidebar__menu-item {
+  color: white;
+  display: block;
+  width: 100%;
+  margin: 8px 0px;
+}
+
+.sidebar {
+  margin: 20px 0;
+  width: 200px;
+  height: calc(100vh - 102px);
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar__menu-item-container {
+  background-color: rgb(103, 161, 161);
+  margin: 0 10px;
+  border-radius: 10px;
+}/*# sourceMappingURL=Sidebar.css.map */

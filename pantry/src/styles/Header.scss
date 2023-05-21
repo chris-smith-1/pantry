@@ -1,0 +1,10 @@
+@use '_colors.scss' as c;
+
+.header {
+    display: flex;
+    align-items: center;
+}
+  
+.app-name {
+    @include c.default-font;
+}
